@@ -2,7 +2,9 @@ curators:
  - rgee0
  
 features:
+ - dco_check
  - comments
+ - pr_description_required
  - hacktoberfest
 
 custom_messages:
